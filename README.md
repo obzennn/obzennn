@@ -1,6 +1,6 @@
 ## Hi, I'm Yoga 👋
 
-AI Automation Builder based in Jakarta, Indonesia.
+AI Automation Builder based in Probolinggo, Indonesia.
 
 I build real systems — not demos.
 
