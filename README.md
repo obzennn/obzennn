@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Yoga 👋
 
-<!--
-**obzennn/obzennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Builder based in Jakarta, Indonesia.
 
-Here are some ideas to get you started:
+I build real systems — not demos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I've shipped:**
+- 🤖 TradeFlow Bot — Binance Futures trading bot with dual-brain engine (XGBoost ML + Gemini macro veto), real-time dashboard, auto-retraining
+- 🎬 ReelMind — YouTube-to-Shorts pipeline using FFmpeg, Next.js, and LLM transcript analysis
+
+**Stack I work with most:**
+n8n · Python · Claude API · Gemini API · OpenAI · Binance API · Webhooks · REST integrations
+
+📫 Open to freelance automation & AI workflow projects
