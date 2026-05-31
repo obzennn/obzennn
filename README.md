@@ -1,14 +1,15 @@
-## Hi, I'm Yoga 👋
+## Hi, I'm Yoga
 
-AI Automation Builder based in Probolinggo, Indonesia.
+I build automation systems and AI-powered tools — mostly for trading, content pipelines, and business workflows.
 
-I build real systems — not demos.
+Based in Indonesia. Currently open to freelance projects.
 
-**What I've shipped:**
-- 🤖 TradeFlow Bot — Binance Futures trading bot with dual-brain engine (XGBoost ML + Gemini macro veto), real-time dashboard, auto-retraining
-- 🎬 ReelMind — YouTube-to-Shorts pipeline using FFmpeg, Next.js, and LLM transcript analysis
+**Things I've built:**
 
-**Stack I work with most:**
-n8n · Python · Claude API · Gemini API · OpenAI · Binance API · Webhooks · REST integrations
+- **TradeFlow Bot** — Binance Futures trading bot. Multi-indicator strategy with an XGBoost ML layer and Gemini LLM as a macro veto engine. Runs async with a real-time dashboard and auto-retrains every 7 days.
+- **ReelMind** — Local tool that pulls YouTube transcripts, uses an LLM to find the best clips, then formats them into vertical shorts via FFmpeg. Built with Next.js.
 
-📫 Open to freelance automation & AI workflow projects
+**Tools I use regularly:**
+n8n · Python · Claude API · Gemini API · OpenAI · Binance API · REST APIs · Webhooks
+
+📫 dwiyogaaaa@email.com ← ganti dengan email aslimu
