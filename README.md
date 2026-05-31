@@ -12,4 +12,4 @@ Based in Indonesia. Currently open to freelance projects.
 **Tools I use regularly:**
 n8n · Python · Claude API · Gemini API · OpenAI · Binance API · REST APIs · Webhooks
 
-📫 dwiyogaaaa@email.com ← ganti dengan email aslimu
+📫 dwiyogaaaa@email.com
